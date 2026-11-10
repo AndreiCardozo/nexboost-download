@@ -4,11 +4,11 @@
 
 <p align="center">Otimização e manutenção do Windows 11 e 10 — explicada, reversível e sem truques.</p>
 
-<p align="center"><a href="../../releases/latest"><b>⬇ Baixar a última versão</b></a></p>
+<p align="center"><a href="https://github.com/AndreiCardozo/nexboost-download/raw/main/NexBoost.exe"><b>⬇ Baixar o NexBoost.exe</b></a></p>
 
 ## Como usar
 
-1. Baixe o **NexBoost.exe** na [página de versões](../../releases/latest).
+1. [Baixe o **NexBoost.exe**](https://github.com/AndreiCardozo/nexboost-download/raw/main/NexBoost.exe) (versão 0.1.1, 4,5 MB).
 2. Abra com dois cliques. Não precisa instalar.
 3. Se o Windows SmartScreen avisar (o arquivo não tem assinatura digital), clique em **Mais informações** → **Executar assim mesmo**.
 
@@ -24,3 +24,11 @@ Requer Windows 10 ou 11 com o WebView2 (já vem no Windows 11).
 ## Problemas e sugestões
 
 Abra uma [issue](../../issues).
+
+## Conferir o arquivo
+
+SHA-256 do NexBoost.exe:
+
+```
+9993cf3e1bf32673ea68e53820918189687dde928a31c734c723287f7d8fc3dd
+```
