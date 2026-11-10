@@ -4,11 +4,11 @@
 
 <p align="center">Otimização e manutenção do Windows 11 e 10 — explicada, reversível e sem truques.</p>
 
-<p align="center"><a href="https://github.com/AndreiCardozo/nexboost-download/raw/main/NexBoost.exe"><b>⬇ Baixar o NexBoost.exe</b></a></p>
+<p align="center"><a href="https://github.com/AndreiCardozo/nexboost-download/raw/main/NexBoost.exe"><b>⬇ Baixar o NexBoost.exe</b></a> · <a href="https://github.com/AndreiCardozo/nexboost-download/raw/main/NexBoost.zip"><b>⬇ Baixar em .zip</b></a></p>
 
 ## Como usar
 
-1. [Baixe o **NexBoost.exe**](https://github.com/AndreiCardozo/nexboost-download/raw/main/NexBoost.exe) (versão 0.1.1, 4,5 MB).
+1. [Baixe o **NexBoost.exe**](https://github.com/AndreiCardozo/nexboost-download/raw/main/NexBoost.exe) (versão 0.1.1, 4,5 MB) — ou [em .zip](https://github.com/AndreiCardozo/nexboost-download/raw/main/NexBoost.zip) (2.0 MB), se o navegador bloquear o .exe. No .zip, extraia antes de abrir.
 2. Abra com dois cliques. Não precisa instalar.
 3. Se o Windows SmartScreen avisar (o arquivo não tem assinatura digital), clique em **Mais informações** → **Executar assim mesmo**.
 
@@ -26,6 +26,12 @@ Requer Windows 10 ou 11 com o WebView2 (já vem no Windows 11).
 Abra uma [issue](../../issues).
 
 ## Conferir o arquivo
+
+SHA-256 do NexBoost.zip:
+
+```
+d2fa4465105dcc65c0e173bd7f76f43bada5de1f415697cfb1987ef6c703e2c2
+```
 
 SHA-256 do NexBoost.exe:
 
